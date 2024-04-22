@@ -1,4 +1,4 @@
-# MoviesEDA
+# MoviesEDA Project
 
 
 1. import libraries
