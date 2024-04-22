@@ -1,5 +1,5 @@
-# MoviesEDA Project
-
+# Movies EDA Project
+in this project i do the following steps.
 
 1. import libraries
 2. Load the data
